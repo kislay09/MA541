@@ -1,0 +1,2 @@
+# Introduction
+In this project, we analyze data from different dates to investigate the relationship between hospitalizations and demographic variables such as age, gender, and race/ethnicity. We use a variety of statistical methods, including exploratory data analysis, t-tests, ANOVA, categorical data analysis, regression analysis, resampling methods, and non-linear modeling, to identify any patterns or trends in the data and test their significance.
